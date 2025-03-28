@@ -5,8 +5,29 @@
 ## Используемые технологии
 
 - **React Native** (через Expo) 
-- **React Navigation** (для бесшовной навигации) 
+- **React Navigation** (для навигации) 
 - **Styled Components** (для стилизации)
 - **Axios** (для обработки запросов API)
 
 ## Установка и настройка
+
+### **1 Клонировать репозиторий**
+```sh
+git clone https://github.com/Kenessary/aichatapp.git
+cd aichatapp
+```
+### **2 Установка библиотек**
+```sh
+npm install
+```
+
+### **3 Настройка переменных среды**
+Создайте файл .env в корневом каталоге и добавьте свои Token:
+```sh
+OPENAI_API_KEY = your_key_api
+```
+### **4 Запустите приложение**
+Создайте файл .env в корневом каталоге и добавьте свои Token:
+```sh
+npx expo start
+```
