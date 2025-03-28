@@ -29,7 +29,6 @@ npm install
 OPENAI_API_KEY = your_key_api
 ```
 ### **4 Запустите приложение**
-Создайте файл .env в корневом каталоге и добавьте свои Token:
 ```sh
 npx expo start
 ```
