@@ -33,7 +33,7 @@ OPENAI_API_KEY = your_key_api
 npx expo start
 ```
 
-## 📸 Screenshots  
+## 📸 Скриншоты
 
 | Welcome Screen | Chat Screen |
 |-------------|------------|
