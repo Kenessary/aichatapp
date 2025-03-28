@@ -32,3 +32,5 @@ OPENAI_API_KEY = your_key_api
 ```sh
 npx expo start
 ```
+
+![Welcome Screen](https://github.com/Kenessary/aichatapp/blob/main/Screenshot_2025_03_29_04_12_57_65_92460851df6f172a4592fca41cc2d2e6.jpg)
